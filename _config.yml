@@ -2,7 +2,7 @@
 menu:
   主页: /
   归档: /archives
-  关于: /about
+  ##关于: /about
 
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
@@ -100,7 +100,7 @@ jiathis:
 #### Analytics
 google_analytics:
   enable: true
-  id: UA-83614750-1       ## e.g. UA-46321946-2 your google analytics ID.
+  id: UA-83614750-1  ## e.g. UA-46321946-2 your google analytics ID.
   site:      ## e.g. wuchong.me your google analytics site or set the value as auto.
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
